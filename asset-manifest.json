@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-formik-demo/static/css/main.50b608ca.chunk.css",
+    "main.js": "/react-formik-demo/static/js/main.0529c939.chunk.js",
+    "main.js.map": "/react-formik-demo/static/js/main.0529c939.chunk.js.map",
+    "runtime-main.js": "/react-formik-demo/static/js/runtime-main.1383cf19.js",
+    "runtime-main.js.map": "/react-formik-demo/static/js/runtime-main.1383cf19.js.map",
+    "static/js/2.2051b531.chunk.js": "/react-formik-demo/static/js/2.2051b531.chunk.js",
+    "static/js/2.2051b531.chunk.js.map": "/react-formik-demo/static/js/2.2051b531.chunk.js.map",
+    "index.html": "/react-formik-demo/index.html",
+    "precache-manifest.3914863e1fb6263153dcfb31bb2d1f42.js": "/react-formik-demo/precache-manifest.3914863e1fb6263153dcfb31bb2d1f42.js",
+    "service-worker.js": "/react-formik-demo/service-worker.js",
+    "static/css/main.50b608ca.chunk.css.map": "/react-formik-demo/static/css/main.50b608ca.chunk.css.map",
+    "static/js/2.2051b531.chunk.js.LICENSE.txt": "/react-formik-demo/static/js/2.2051b531.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1383cf19.js",
+    "static/js/2.2051b531.chunk.js",
+    "static/css/main.50b608ca.chunk.css",
+    "static/js/main.0529c939.chunk.js"
+  ]
+}
